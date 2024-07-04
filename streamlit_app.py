@@ -43,7 +43,7 @@ def streamlit_bg(image_path):
         unsafe_allow_html=True
     )
 
-streamlit_bg("static\images\cover.jpg")
+streamlit_bg("static/images/cover.jpg")
 
 def close_port(port):
     for conn in psutil.net_connections(kind='inet'):
