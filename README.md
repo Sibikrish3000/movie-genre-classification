@@ -30,7 +30,7 @@ This project includes a FastAPI-based API and a Streamlit web application for cl
 ## Try on Streamlit
 
 <p>
-<a href="https://www.streamlit.io"><img src="https://img.shields.io/badge/Streamlit-e63946?style=flat&logo=streamlit" alt="streamlit" width="160" height="50"></a>
+<a href="https://movie-genre-classification.streamlit.app/"><img src="https://img.shields.io/badge/Streamlit-e63946?style=flat&logo=streamlit" alt="streamlit" width="160" height="50"></a>
 </p>
 
 ## Try on Huggingface Space
