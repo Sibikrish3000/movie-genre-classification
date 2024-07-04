@@ -8,7 +8,7 @@
 This application uses machine learning to classify movies into genres based on their descriptions.
 </p>
 
-<p center ="align">
+<p align="center">
 <a href="https://github.com/Sibikrish3000/movie-genre-classification/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Sibikrish3000/movie-genre-classification" alt="GitHub license"></a>
 <a href="https://github.com/Sibikrish3000/movie-genre-classification/stargazers"><img src="https://img.shields.io/github/stars/Sibikrish3000/movie-genre-classification?style=social" alt="GitHub stars"></a>
 <a href="https://github.com/Sibikrish3000/movie-genre-classification/issues"><img src="https://img.shields.io/github/issues/Sibikrish3000/movie-genre-classification" alt="GitHub issues"></a>
