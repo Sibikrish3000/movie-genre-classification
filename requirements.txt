@@ -1,0 +1,13 @@
+pillow
+fastapi
+uvicorn
+streamlit
+requests
+psutil
+numpy
+joblib
+scikit-learn
+nltk
+pydantic
+imblearn
+imbalanced-learn
