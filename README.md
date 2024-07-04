@@ -1,6 +1,6 @@
 
 <p align="center">
-<a href="https://github.com/Sibikrish3000/movie-genre-classification"><img src="https://github.com/Sibikrish3000/movie-genre-classification/blob/main/static/images/movie_genre.png?raw=true" alt="movie genre image" width="500" height="280"></a>
+<a href="https://github.com/Sibikrish3000/movie-genre-classification"><img src="https://github.com/Sibikrish3000/movie-genre-classification/blob/main/static/images/movie_genre.jpg?raw=true" alt="movie genre image" width="500" height="280"></a>
 </p>
 <h1 align="center">Movie Genre Classification API and Web App</h1>
 
