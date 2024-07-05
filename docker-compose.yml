@@ -1,0 +1,17 @@
+version: '3.8'
+
+services:
+  streamlit:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: streamlit_container
+    ports:
+      - "8501:8501"
+      - "8000:8000"
+    volumes:
+      - .:/app
+    command: streamlit run streamlit_app.py --server.port 8501 --server.enableCORS false
+   
+
+  
