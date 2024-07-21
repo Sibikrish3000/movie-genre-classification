@@ -36,7 +36,7 @@ This project includes a FastAPI-based API and a Streamlit web application for cl
 ## Try on Huggingface Space
 
 <p>
-<a href="https://huggingface.co/spaces/Sibikrish3000/movie-genre-classification"><img src="https://img.shields.io/badge/Huggingface-white?style=flat&logo=huggingface&logoSize=amd" alt="huggingface" width="160" height="50"></a>
+<a href="https://sibikrish-movie-genre-classification.hf.space"><img src="https://img.shields.io/badge/Huggingface-white?style=flat&logo=huggingface&logoSize=amd" alt="huggingface" width="160" height="50"></a>
 </p>
 
 
